@@ -1,4 +1,4 @@
-<img src="https://assets.mofoprod.net/network/images/Tinder_1.original.png">
+<img src="https://www.paginesispa.it/wp-content/uploads/elementor/thumbs/Tinder-qra51w85c79ourlzhfm92924poucwr3b30amw0rui0.jpg">
 
 # Tinder auto-liker
 
