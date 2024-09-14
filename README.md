@@ -1,4 +1,4 @@
-<img src="[https://i.pinimg.com/736x/6b/a6/e6/6ba6e6c3b5948aaa47174dda3aba4daf.jpg](https://assets.mofoprod.net/network/images/Tinder_1.original.png)">
+<img src="[https://i.pinimg.com/736x/6b/a6/e6/6ba6e6c3b5948aaa47174dda3aba4daf.jpg](https://i.pinimg.com/736x/6b/a6/e6/6ba6e6c3b5948aaa47174dda3aba4daf.jpg)">
 
 # Tinder auto-liker
 
