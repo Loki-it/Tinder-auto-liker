@@ -22,7 +22,7 @@ Questo script mette like in automatico a qualsiasi persona.
 ### Note ✅
 
 - Si, funziona perfettamente
-- Se clicca su na icona nella barra a posto che sul cuore, rimuovi la tua icona dalla barra
+- Se clicca su un'icona nella barra a posto che sul cuore, rimuovi la tua icona dalla barra
 
 ### Disclaimer:
 Tinder vieta l'utilizzo di automatismi e se utilizzi questo script te ne assumi la piena responsabilità.
