@@ -17,13 +17,15 @@ Questo script mette like in automatico a qualsiasi persona.
 
 ### Configurazione 🔧
 
-- Avvia il file e metti davanti la schermata di tinder, lo script metterà like in automatico 
+- Avvia il file 
+- Metti in primo piano la schermata del tuo browser con Tinder
 
 ### Note ✅
 
-- Si, funziona perfettamente
-- Se clicca su un'icona nella barra a posto che sul cuore, rimuovi la tua icona dalla barra
+- Lo script metterà like in automatico a qualsiasi persona 
+- Premi Control+C per stoppare lo script 
+- Se lo script clicca su un'icona nella barra a posto che sul cuore, rimuovi la tua icona dalla barra
 
-### Disclaimer:
+### Disclaimer ⚠️
 Tinder vieta l'utilizzo di automatismi e se utilizzi questo script te ne assumi la piena responsabilità.
 Non mi assumo nessuna responsabilità se vieni limitato o bannato.
